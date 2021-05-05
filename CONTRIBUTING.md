@@ -10,6 +10,13 @@ Questions are encouraged. Your questions let us know what is unclear. If you spe
 
 Thank you for raising issues.
 
+## Improving documentation
+Documentation is the most important way for you to understand Apache AGE, and it's where we need help most!
+
+If you are interested in improving the quality of documents, whether it is revising the address of a page, correcting a link, and writing a better introductory document, you are very welcome!
+
+Most of our documents are written in markdown format, and you can modify and submit document changes directly through [docs]
+
 ## Pull Requests
 
 Pull requests are a great way to get your ideas into this repository. Check out the list of good [first issues](https://github.com/apache/incubator-age/labels/good%20first%20issue)
